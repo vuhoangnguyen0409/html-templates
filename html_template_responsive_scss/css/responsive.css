@@ -1,0 +1,8 @@
+/* Scss Document */
+@media screen and (min-width: 768px) {
+  nav {
+    background: red; }
+    nav nav ul {
+      text-align: center; } }
+
+/*# sourceMappingURL=responsive.css.map */

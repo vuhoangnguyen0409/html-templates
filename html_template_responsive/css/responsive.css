@@ -1,0 +1,16 @@
+@charset "UTF-8";
+ @media screen and (min-width: 768px) {
+.inner {
+	margin: 0 auto;
+	width: 100%;
+	padding: 0px 10px;
+}
+.ColLeft,  .ColRight {
+	float: none;
+	width: 100% !important;
+}
+
+}
+ @media screen and (min-width: 468px) {
+	
+}
